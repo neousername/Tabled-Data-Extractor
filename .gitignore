@@ -1,0 +1,6 @@
+creds.py
+*.env
+Screenshots/
+*.xlsx
+__pycache__
+ai_prompt.py
