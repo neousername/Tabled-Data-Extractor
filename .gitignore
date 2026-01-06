@@ -3,4 +3,3 @@ creds.py
 Screenshots/
 *.xlsx
 __pycache__
-ai_prompt.py
